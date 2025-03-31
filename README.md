@@ -13,7 +13,7 @@
 </p>
 
 <div align="center">
-  <img src="./attached_assets/Screenshot 2025-03-30 at 9.43.23 PM.png" alt="SEO Meta Tag Analyzer Landing Page" width="85%" />
+  <img src="./attached_assets/SEO_Results.png" alt="SEO Meta Tag Analyzer Landing Page" width="85%" />
 </div>
 
 ## ✨ Features
@@ -72,24 +72,6 @@ The SEO Meta Tag Analyzer is built with:
 - npm or yarn
 
 ### Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/seo-meta-tag-analyzer.git
-   cd seo-meta-tag-analyzer
-   ```
-
-2. Install dependencies:
-   ```bash
-   npm install
-   ```
-
-3. Start the development server:
-   ```bash
-   npm run dev
-   ```
-
-4. Open your browser and navigate to `http://localhost:5000`
 
 ### Running Locally
 
@@ -151,7 +133,7 @@ To run this project on your local machine:
 3. Browse through the different sections to review your SEO performance
 
 <div align="center">
-  <img src="./attached_assets/Screenshot 2025-03-30 at 9.42.55 PM.png" alt="SEO Meta Tag Analysis Results" width="85%" />
+  <img src="./attached_assets/SEO_landing.png" alt="SEO Meta Tag Analysis Results" width="85%" />
 </div>
 
 ### Understanding the Score
